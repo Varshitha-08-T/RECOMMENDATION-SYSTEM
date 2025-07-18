@@ -102,3 +102,5 @@ output.jpg: Image showing sample recommendations
 README.md: This documentation file
 
 **OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/e5877a7b-ee6b-49a3-b4bd-006141ab5ea3)

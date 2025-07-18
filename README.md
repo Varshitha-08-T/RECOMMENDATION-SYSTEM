@@ -95,7 +95,7 @@ Matplotlib & Seaborn (for evaluation visualizations)
 
 **📁 Files Included**
 
-recommendation.ipynb: Notebook containing the full implementation and evaluation
+Recommendation.ipynb: Notebook containing the full implementation and evaluation
 
 output.jpg: Image showing sample recommendations
 
